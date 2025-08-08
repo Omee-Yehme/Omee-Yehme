@@ -25,7 +25,7 @@
 </a>
 </div>
 
-<h2 align="center">💻 Programming Languages & Tools</h2>
+<h2 align="center">💻 TechStack</h2>
 
 
 
